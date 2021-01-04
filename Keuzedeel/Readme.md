@@ -9,6 +9,8 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 
 [Map met documenten voor studenten](https://teams.microsoft.com/_#/school/files/Special%20Input%20-%20Output?threadId=19%3A9a7f228cc90742fb93a0d35a39ae8e5a%40thread.tacv2&ctx=channel&context=Special%2520Input%2520-%2520Output&rootfolder=%252Fteams%252FGD3A1920%252FGedeelde%2520documenten%252FSpecial%2520Input%2520-%2520Output)
 
+[Planning] (https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2021/blob/master/Keuzedeel/Planning%20Keuzedeel%20Input%20Ouput%202021%20.pdf)
+
 # Planning
 6 weken 4 sprints. Overzicht zie spreadsheet in Map met documenten voor studenten.
 
