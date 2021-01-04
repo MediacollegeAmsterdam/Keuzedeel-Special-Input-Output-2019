@@ -15,6 +15,7 @@ voorbeeld
   * https://photos.app.goo.gl/cOtf9R4Dhzd4H5LR2
 [![photo Nematoduino](video/image1.jpg "photo Nematoduino")](https://photos.app.goo.gl/cOtf9R4Dhzd4H5LR2)
 
+![image](image.jpg)
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
