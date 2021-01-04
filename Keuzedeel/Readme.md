@@ -12,7 +12,7 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 # Planning
 6 weken 4 sprints. Overzicht zie spreadsheet in Map met documenten voor studenten.
 
-## Sprint 0  9 feb <SPRINT>
+## Sprint 0 GONOGO  9 feb <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
 
 * Onderzoek doen
