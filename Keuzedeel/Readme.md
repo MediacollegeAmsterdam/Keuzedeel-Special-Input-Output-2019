@@ -48,7 +48,7 @@ Tijdens deze presentatie gaan de studenten hun huidige voortgang aan de klas pre
 Uiterlijk 31 maart 2021 leveren jullie het portfolio in. Dat wilt zeggen, vanaf 31 maart is jullie documentatie klaar om nagekeken te worden door de MA beoordelaars.
 In deze sprint worden de presentaties en de CGI examens gehouden. De studenten worden hier beoordeeld op hun product en hoe ze tot hun eindproduct zijn gekomen.
 
-### Week 8 (7 april 2021)
+## Examen (7 april 2021)
 * Goedkeuring Portfolio
 * **Eindpresentatie**  
   Deze presentatie duurt hoogstens 10 minuten. Tijdens deze 10 minuten laten de studenten hun eindproduct zien en bespreken hun proces (scrum).
