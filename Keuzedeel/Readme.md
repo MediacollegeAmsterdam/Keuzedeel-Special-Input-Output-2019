@@ -12,10 +12,9 @@ Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.  
 # Planning
 6 weken 4 sprints. Overzicht zie spreadsheet in Map met documenten voor studenten.
 
-## Sprint 0   <SPRINT>
+## Sprint 0  9 feb <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
 
-### Week 1 (9 feb)  Sprint 0
 * Onderzoek doen
 * **Presentatie 1 - (GONOGO)**
 * Start project
@@ -24,31 +23,30 @@ Deze sprint staat in teken van het opstarten van het project. De studenten krijg
   * [ ] [Readme invullen](../readme.md)
   * [ ] Link mailen naar [docent](e.schenk@ma-web.nl) 
   * [ ] Docenten betrokken bij het keuzedeel [Jelle ](j.sjollema@ma-web.nl) [Berend ](b.Weij@ma-web.nl) [Ed](e.schenk@ma-web.nl) 
-## Sprint 0   go nogo<SPRINT>
-### 9 feb 2021
+
  
-## Sprint 1   hello world<SPRINT> 
-### 1 mrt 2021
+## Sprint 1   hello world 1 mrt 2021<SPRINT> 
+
 Deze sprint staat in teken van de 'Hello World'. Aan het einde van deze sprint gaan de studenten een eerste speelbare prototype opleveren. Het doel van dit prototype is om de laten zien dat hun techniek werkt, en dat ze hun input/output werkend hebben gekregen.
 
 
 
-## Sprint 2   prototype + presentatie<SPRINT>
-### 15 mrt 2021
+## Sprint 2   prototype + presentatie 15 mrt 2021<SPRINT>
+
 Deze sprint staat in het teken van het prototype. De studenten hebben een werkende versie en kunnen deze presenteren. Dat gebeurt klassikaal met de presentaties en bij mediabites. Aan het einde van deze sprint gaan de studenten hun voortgang presenteren.
 
 **Presentatie 2 - Voortgang**  
 Tijdens deze presentatie gaan de studenten hun huidige voortgang aan de klas presenteren. Ze laten hun huidige onderzoek zien, en het ontwerp. Ook de prototype van de applicatie wordt getoond. Deze presentatie duurt hoogstens 10 minuten.
 
-## Sprint 3  product + portfolio <SPRINT>
+## Sprint 3  product + portfolio 22 mrt <SPRINT>
 
 
   
-## Sprint 4 EXIT
+## Sprint 4 EXIT 29 mrt<SPRINT>
 Uiterlijk 31 maart 2021 leveren jullie het portfolio in. Dat wilt zeggen, vanaf 31 maart is jullie documentatie klaar om nagekeken te worden door de MA beoordelaars.
 In deze sprint worden de presentaties en de CGI examens gehouden. De studenten worden hier beoordeeld op hun product en hoe ze tot hun eindproduct zijn gekomen.
 
-## Examen (7 april 2021)
+## Examen 7 apr 2021 <SPRINT>
 * Goedkeuring Portfolio
 * **Eindpresentatie**  
   Deze presentatie duurt hoogstens 10 minuten. Tijdens deze 10 minuten laten de studenten hun eindproduct zien en bespreken hun proces (scrum).
